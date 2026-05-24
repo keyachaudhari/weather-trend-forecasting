@@ -95,6 +95,10 @@ jupyter notebook
 - 02_advanced_eda.ipynb
 - 03_forecasting_models.ipynb
 
+## Demo Video
+
+[Watch Demo Video](https://drive.google.com/file/d/1zCaLelOcIdS8c_Kk-r_afvzLWdNa1QNQ/view?usp=sharing)
+
 ## Future Improvements
 
 - Implement Gradient Boosting and XGBoost models
